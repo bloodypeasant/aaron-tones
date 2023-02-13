@@ -1,0 +1,20 @@
+.range-input {
+  width: 40em;
+}
+.field {
+  width: fit-content;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+.spacer {
+  margin-top: 6px;
+}
+.button {
+  font-size: 1.5em;
+}
+#buttons-div {
+  text-align: center;
+}
+#canvas {
+  display: none;
+}
